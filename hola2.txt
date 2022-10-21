@@ -1,2 +1,4 @@
 este es un archivo que se llama hola2.txt
 hola tana
+
+estamos realizando cambios en el mismo archivo
