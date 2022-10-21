@@ -1,4 +1,4 @@
 este es un archivo que se llama hola2.txt
-hola tana
+hola Tana
+hola Ariel
 
-estamos realizando cambios en el mismo archivo
